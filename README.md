@@ -1,5 +1,5 @@
 # Hasturian-Era-Rus-QuestBook
-Это официальный репозиторий моего ИИ перевода книги квестов для модпака Prominence II RPG: Hasturian Era.
+Это репозиторий моего ИИ перевода книги квестов для модпака Prominence II RPG: Hasturian Era.
 
 [Русский]<br>
 Я не разработчик модпака Prominence II RPG: Hasturian Era для игры Minecraft и никак не связан с ними.<br> Я просто сделал перевод на русский язык через **ИИ**. В переводе могут присутствовать **ошибки** как <ins>грамматические</ins>, так и <ins>ошибки форматирования текста</ins>. <br>Перевод уже _готов_, но находится в стадии <ins>тестирования</ins>. Перевод сделан для версии **3.1.6**. Работа на более старых версиях <ins>не гарантируется</ins>.
@@ -13,7 +13,7 @@
 3. Играть.
 
 [English]<br>
-This is the official repository of my AI translation of the quest book for the Prominence II RPG: Hasturian Era modpack.
+This is a repository of my AI translation of the quest book for the Prominence II RPG: Hasturian Era modpack.
 
 I am not the developer of the Prominence II RPG: Hasturian Era modpack for the game Minecraft and am not affiliated with them in any way.<br> I just made a translation into Russian through the **AI**. There may be **errors** in the translation, both <ins>grammatical</ins> and <ins>text formatting errors</ins>. <br>The translation is _ready_, but is in the <ins>testing phase</ins>. The translation is made for version **3.1.6**. Work on older versions is <ins>not guaranteed</ins>.
 <br>**The files contain only a translation of the quest book, it is _not_ a full translation of the modpack.**
