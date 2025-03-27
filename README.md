@@ -7,6 +7,7 @@
 I am not the developer of the Prominence II RPG: Hasturian Era modpack for the game Minecraft and am not affiliated with them in any way. I just made a translation into Russian through the **AI**. There may be **errors** in the translation, both <ins>grammatical</ins> and <ins>text formatting errors</ins>. The translation is _ready_, but is in the <ins>testing phase</ins>. The translation is made for version **3.1.6**. Work on older versions is <ins>not guaranteed</ins>.
 **The files contain only a translation of the quest book, it is _not_ a full translation of the modpack.**
 
-Ссылки на / Links Prominence II RPG: Hasturian Era:
-https://modrinth.com/modpack/prominence-2-fabric
-https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg
+Ссылки на / Links Prominence II RPG: Hasturian Era:<br>
+https://modrinth.com/modpack/prominence-2-fabric - Modrinth
+<br>
+https://www.curseforge.com/minecraft/modpacks/prominence-2-rpg - Curseforge
