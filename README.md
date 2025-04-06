@@ -6,7 +6,7 @@
 <br>**Файлы содержат только перевод книги квестов, это _не_ полный перевод модпака.**
 
 Для установки перевода необходимо:<br>
-1. Скачать последнюю версию перевода через вкладку "Releases" или по ссылке: [Клик](https://github.com/Harsh1bu/Hasturian-Era-Rus-QuestBook/releases)
+1. Скачать последнюю версию перевода через вкладку "Releases" или по ссылке: [Клик](https://github.com/Harsh1bu/Hasturian-Era-Rus-QuestBook/releases/latest)
 2. Распаковать скачанный архив по пути:
    * Curseforge - **..\Instances\Prominence II [RPG]\config** (или правой кнокой мышки по модпаку > Открыть папку и перейти в \config) и согласиться на _замену_ файлов.
    * Modrinth - **..\profiles\Prominence II RPG_ Hasturian Era\config** (или правой кнокой мышки по модпаку > Открыть папку и перейти в \config) и согласиться на _замену_ файлов.
@@ -19,7 +19,7 @@ I am not the developer of the Prominence II RPG: Hasturian Era modpack for the g
 <br>**The files contain only a translation of the quest book, it is _not_ a full translation of the modpack.**
 
 To install the translation you need to:<br>
-1. Download the latest version of the translation via the "Releases" tab or via the link: [Click](https://github.com/Harsh1bu/Hasturian-Era-Rus-QuestBook/releases)
+1. Download the latest version of the translation via the "Releases" tab or via the link: [Click](https://github.com/Harsh1bu/Hasturian-Era-Rus-QuestBook/releases/latest)
 2. Extract the downloaded archive to the path:
    * Curseforge - **..\Instances\Prominence II [RPG]\config** (or right-click modpack > Open folder and go to \config) and agree to _replace_ the files.
    * Modrinth - **..\profiles\Prominence II RPG_ Hasturian Era\config** (or right-click modpack > Open folder and go to \config) and agree to _change files.
